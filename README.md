@@ -7,6 +7,10 @@ This is a forked version of LegacyFuel after the original developer(s) abandoned
 3) Configure the config file to your liking.
 4) Add `start LegacyFuel` to your server config.
 
+### NOTE:
+I will not be implementing the ESX Economy features of this script, however; if someone would like to make a PR with those features, I would be happy to take a look and implement if I see fit.
+
+
 ### Exports
 There are currently two (client-sided) exports available, which should help you control the fuel level for vehicles whenever needed.
 
