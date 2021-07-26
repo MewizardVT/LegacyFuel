@@ -1,8 +1,8 @@
 ### About
-Started off as my first script, and for whatever reason, I decided to release it. As it was pretty badly created, I felt like I should rewrite it and make a better version, so ended up spending a few hours doing so.
+This is a forked version of LegacyFuel after the original developer(s) abandoned the project; I am just now learning .lua so please bear with me.
 
 ### Installation
-1) Download the latest version in the "code" tab on GitHub.
+1) Download the latest release on GitHub.
 2) Drag & drop the folder into your `resources` server folder.
 3) Configure the config file to your liking.
 4) Add `start LegacyFuel` to your server config.
